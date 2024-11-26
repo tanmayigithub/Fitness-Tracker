@@ -1,2 +1,9 @@
-# Fitness-Tracker
-The Fitness Tracker project is a comprehensive application designed to help individuals monitor, analyze, and improve their physical health and fitness. It is a user-friendly solution that integrates multiple features to track fitness activities, set personal goals, and provide actionable insights to enhance well-being.
+# React + Vite
+
+This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+
+Currently, two official plugins are available:
+
+- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
+- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+# FitTrack
